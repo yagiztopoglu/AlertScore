@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0a873ff0-34be-4928-bcbc-2fdacecf87d9
+
 # AlertScore
 
 **Zaman serisi anomali tespit algoritmaları için karşılaştırma ve güvenilirlik platformu.**
